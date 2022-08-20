@@ -1,2 +1,2 @@
 # my_game
-Trying to crate mini game
+Trying to create mini game
